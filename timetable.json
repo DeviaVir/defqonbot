@@ -1,0 +1,1334 @@
+{
+  "friday": {
+    "id": "Friday - The Gathering",
+    "start": "Jun 23 2017 8:00PM",
+    "end": "Jun 24 2017 01:00AM",
+    "areas": {
+      "blue": {
+        "id": "The Blue",
+        "host": "Villain",
+        "dj": [
+          {
+              "start": "Jun 23 2017 8:00PM",
+              "end": "Jun 23 2017 9:15PM",
+              "dj": "Wildstylez"
+          },
+          {
+              "start": "Jun 23 2017 9:15PM",
+              "end": "Jun 23 2017 10:15PM",
+              "dj": "Bass Modulators"
+          },
+          {
+              "start": "Jun 23 2017 10:15PM",
+              "end": "Jun 23 2017 11:15PM",
+              "dj": "Coone"
+          },
+          {
+              "start": "Jun 23 2017 11:15PM",
+              "end": "Jun 24 2017 12:30AM",
+              "dj": "Noisecontrollers"
+          },
+          {
+              "start": "Jun 24 2017 12:30AM",
+              "end": "Jun 24 2017 01:00AM",
+              "dj": "Zazafront"
+          }
+        ]
+      },
+      "black": {
+        "id": "The Black",
+        "host": "Ruffian",
+        "dj": [
+          {
+              "start": "Jun 23 2017 8:00PM",
+              "end": "Jun 23 2017 9:00PM",
+              "dj": "Korsakoff"
+          },
+          {
+              "start": "Jun 23 2017 9:00PM",
+              "end": "Jun 23 2017 10:00PM",
+              "dj": "Charlie Lownoise & Mental Theo"
+          },
+          {
+              "start": "Jun 23 2017 10:00PM",
+              "end": "Jun 23 2017 11:00PM",
+              "dj": "Evil Activities"
+          },
+          {
+              "start": "Jun 23 2017 11:00PM",
+              "end": "Jun 24 2017 12:00AM",
+              "dj": "Mad Dog"
+          },
+          {
+              "start": "Jun 24 2017 12:00AM",
+              "end": "Jun 24 2017 01:00AM",
+              "dj": "Partyraiser"
+          }
+        ]
+      },
+      "yellow": {
+        "id": "The Yellow",
+        "host": "",
+        "dj": [
+          {
+              "start": "Jun 23 2017 8:00PM",
+              "end": "Jun 23 2017 9:00PM",
+              "dj": "Tharoza"
+          },
+          {
+              "start": "Jun 23 2017 9:00PM",
+              "end": "Jun 23 2017 10:00PM",
+              "dj": "Sawtooth"
+          },
+          {
+              "start": "Jun 23 2017 10:00PM",
+              "end": "Jun 23 2017 11:00PM",
+              "dj": "Edub"
+          },
+          {
+              "start": "Jun 23 2017 11:00PM",
+              "end": "Jun 24 2017 12:00AM",
+              "dj": "Spitnoise"
+          },
+          {
+              "start": "Jun 24 2017 12:00AM",
+              "end": "Jun 24 2017 01:00AM",
+              "dj": "Angernoizer"
+          }
+        ]
+      },
+      "big-chill": {
+        "id": "The Big Chill",
+        "host": "",
+        "dj": [
+          {
+            "start": "Jun 23 2017 8:00PM",
+            "end": "Jun 24 2017 01:00AM",
+            "dj": ""
+          }
+        ]
+      }
+    }
+  },
+  "saturday": {
+    "id": "Saturday",
+    "start": "Jun 24 2017 11:00AM",
+    "end": "Jun 24 2017 11:00PM",
+    "areas": {
+      "red": {
+        "id": "The Red",
+        "host": "Villain",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:30PM",
+            "dj": "TNT"
+          },
+          {
+            "start": "Jun 24 2017 12:30PM",
+            "end": "Jun 24 2017 01:30PM",
+            "dj": "Sound Rush"
+          },
+          {
+            "start": "Jun 24 2017 01:30PM",
+            "end": "Jun 24 2017 02:15PM",
+            "dj": "Adrenalize"
+          },
+          {
+            "start": "Jun 24 2017 02:15PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Cyber"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Audiotricz"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Power Hour"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "Psyko Punkz"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Brennan Heart & Zatox"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "Da Tweekaz"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 08:30PM",
+            "dj": "NCBM"
+          },
+          {
+            "start": "Jun 24 2017 08:30PM",
+            "end": "Jun 24 2017 09:30PM",
+            "dj": "Atmozfears"
+          },
+          {
+            "start": "Jun 24 2017 09:30PM",
+            "end": "Jun 24 2017 10:30PM",
+            "dj": "Frequencerz"
+          },
+          {
+            "start": "Jun 24 2017 10:30PM",
+            "end": "Jun 24 2017 11:00PM",
+            "dj": "Endshow"
+          }
+        ]
+      },
+      "black": {
+        "id": "The Black",
+        "host": "Diesel",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:30PM",
+            "dj": "Decipher"
+          },
+          {
+            "start": "Jun 24 2017 12:30PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "The Melodyst"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Promo"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Neophyte"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Anime"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 05:30PM",
+            "dj": "Art of Fighters (live)"
+          },
+          {
+            "start": "Jun 24 2017 05:30PM",
+            "end": "Jun 24 2017 06:30PM",
+            "dj": "Miss K8"
+          },
+          {
+            "start": "Jun 24 2017 06:30PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Peacock in concert"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "Partyraiser"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 09:00PM",
+            "dj": "Andy the Core & Lady Dammage"
+          },
+          {
+            "start": "Jun 24 2017 09:00PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "Destructive Tendencies"
+          },
+          {
+            "start": "Jun 24 2017 10:00PM",
+            "end": "Jun 24 2017 11:00PM",
+            "dj": "Angerfist"
+          }
+        ]
+      },
+      "blue": {
+        "id": "The Blue",
+        "host": "DV8",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:00PM",
+            "dj": "Tartaros"
+          },
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "Phuture Noize"
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Jason Payne"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 02:30PM",
+            "dj": "Public Enemies"
+          },
+          {
+            "start": "Jun 24 2017 02:30PM",
+            "end": "Jun 24 2017 03:30PM",
+            "dj": "Bass Chaserz"
+          },
+          {
+            "start": "Jun 24 2017 03:30PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Act of Rage"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 04:30PM",
+            "dj": "Sub Sonik (live)"
+          },
+          {
+            "start": "Jun 24 2017 04:30PM",
+            "end": "Jun 24 2017 05:30PM",
+            "dj": "Ran-D"
+          },
+          {
+            "start": "Jun 24 2017 05:30PM",
+            "end": "Jun 24 2017 06:30PM",
+            "dj": "Adaro"
+          },
+          {
+            "start": "Jun 24 2017 06:30PM",
+            "end": "Jun 24 2017 07:30PM",
+            "dj": "Warface & D-Sturb"
+          },
+          {
+            "start": "Jun 24 2017 07:30PM",
+            "end": "Jun 24 2017 8:30PM",
+            "dj": "Deetox"
+          },
+          {
+            "start": "Jun 24 2017 8:30PM",
+            "end": "Jun 24 2017 9:00PM",
+            "dj": "Rebellion (live)"
+          },
+          {
+            "start": "Jun 24 2017 9:00PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "Radical Redemption"
+          }
+        ]
+      },
+      "uv": {
+        "id": "The U.V.",
+        "host": "DL",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:00PM",
+            "dj": "Ignition"
+          },
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "Demi Kanon"
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Galactixx"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Devin Wild"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "JNXD"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "NSCLT"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "Max Enforcer"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Toneshifterz"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 07:30PM",
+            "dj": "Andy Svge (live)"
+          },
+          {
+            "start": "Jun 24 2017 07:30PM",
+            "end": "Jun 24 2017 08:30PM",
+            "dj": "Rebourne"
+          },
+          {
+            "start": "Jun 24 2017 08:30PM",
+            "end": "Jun 24 2017 09:30PM",
+            "dj": "Stephanie"
+          },
+          {
+            "start": "Jun 24 2017 09:30PM",
+            "end": "Jun 24 2017 10:30PM",
+            "dj": "Audiofreq"
+          }
+        ]
+      },
+      "gold": {
+        "id": "The Gold",
+        "host": "Da Mouth of Madness",
+        "dj": [
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "Gizmo"
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Francois"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Dione"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Dano"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Buzz Fuzz"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "Panic"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Ruffneck"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "Bass-D"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 09:00PM",
+            "dj": "The Stunned Guys"
+          },
+          {
+            "start": "Jun 24 2017 09:00PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "Frantic Freak"
+          },
+          {
+            "start": "Jun 24 2017 10:00PM",
+            "end": "Jun 24 2017 11:00PM",
+            "dj": "Drokz"
+          }
+        ]
+      },
+      "magenta": {
+        "id": "Magenta",
+        "host": "Da Syndrome",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:00PM",
+            "dj": "Beastyboy & Da Vince"
+          },
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "Sunny D"
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Pila & The Scientist"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Haze & Abyss"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Balistic"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Super Marco May"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "Luna"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Zany"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "Activator"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 09:00PM",
+            "dj": "Pavo"
+          },
+          {
+            "start": "Jun 24 2017 09:00PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "Deepack"
+          }
+        ]
+      },
+      "white": {
+        "id": "White",
+        "host": "Ruffian",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:00PM",
+            "dj": "Genius"
+          },
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "PYRA."
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Puinhoop Kollektiv"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Dr. Rude"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Dutch Movement"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Dr Phunk"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "Darkraver & Outsiders"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Ransom"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "Ruthless"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 09:00PM",
+            "dj": "Mashup Jack"
+          },
+          {
+            "start": "Jun 24 2017 09:00PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "The Viper"
+          },
+          {
+            "start": "Jun 24 2017 10:00PM",
+            "end": "Jun 24 2017 10:45PM",
+            "dj": "Skoften Sloopservice"
+          }
+        ]
+      },
+      "silver": {
+        "id": "Silver",
+        "host": "Dart",
+        "dj": [
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "Ghost in the Machine"
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Manu Le Malin"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Mindustries"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Counterstrike"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Meander"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:30PM",
+            "dj": "Dither & Tymon"
+          },
+          {
+            "start": "Jun 24 2017 06:30PM",
+            "end": "Jun 24 2017 07:30PM",
+            "dj": "The Outside Agency"
+          },
+          {
+            "start": "Jun 24 2017 07:30PM",
+            "end": "Jun 24 2017 08:30PM",
+            "dj": "Detest"
+          },
+          {
+            "start": "Jun 24 2017 08:30PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "Dolphin & Bryan Fury"
+          }
+        ]
+      },
+      "purple": {
+        "id": "The Purple",
+        "host": "MC Dash",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:00PM",
+            "dj": "Unishock"
+          },
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "Kevin Hucker"
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Airtunes"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Blamenoise"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": ""
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Theo Gobensen"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "Retrospect"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Ecstatic"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "MickeyG"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 09:00PM",
+            "dj": "Bloodpeak"
+          },
+          {
+            "start": "Jun 24 2017 09:00PM",
+            "end": "Jun 24 2017 09:45PM",
+            "dj": "Access One"
+          },
+          {
+            "start": "Jun 24 2017 09:45PM",
+            "end": "Jun 24 2017 10:30PM",
+            "dj": "Deadly Guns"
+          }
+        ]
+      },
+      "indigo": {
+        "id": "Indigo",
+        "host": "Livid",
+        "dj": [
+          {
+            "start": "Jun 24 2017 11:00AM",
+            "end": "Jun 24 2017 12:30PM",
+            "dj": "Malua"
+          },
+          {
+            "start": "Jun 24 2017 12:30PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "X-Pander"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Dailucia"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 04:00PM",
+            "dj": "Insidiouz & Udex"
+          },
+          {
+            "start": "Jun 24 2017 04:00PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Clockartz"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "Artifact"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "Titan"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "Prefix & Density"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 09:00PM",
+            "dj": "Apexx"
+          },
+          {
+            "start": "Jun 24 2017 09:00PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "Unresolved"
+          },
+          {
+            "start": "Jun 24 2017 10:00PM",
+            "end": "Jun 24 2017 11:00PM",
+            "dj": "Mind Dimension"
+          }
+        ]
+      },
+      "yellow": {
+        "id": "The Yellow",
+        "host": "",
+        "dj": [
+          {
+            "start": "Jun 24 2017 12:00PM",
+            "end": "Jun 24 2017 01:00PM",
+            "dj": "Chaotic Hostility"
+          },
+          {
+            "start": "Jun 24 2017 01:00PM",
+            "end": "Jun 24 2017 02:00PM",
+            "dj": "Bit Reactors"
+          },
+          {
+            "start": "Jun 24 2017 02:00PM",
+            "end": "Jun 24 2017 03:00PM",
+            "dj": "Sjammienators"
+          },
+          {
+            "start": "Jun 24 2017 03:00PM",
+            "end": "Jun 24 2017 03:45PM",
+            "dj": "Sawtooth (live)"
+          },
+          {
+            "start": "Jun 24 2017 03:45PM",
+            "end": "Jun 24 2017 05:00PM",
+            "dj": "Spitnoise"
+          },
+          {
+            "start": "Jun 24 2017 05:00PM",
+            "end": "Jun 24 2017 06:00PM",
+            "dj": "The Sickest Squad"
+          },
+          {
+            "start": "Jun 24 2017 06:00PM",
+            "end": "Jun 24 2017 07:00PM",
+            "dj": "F. Noize"
+          },
+          {
+            "start": "Jun 24 2017 07:00PM",
+            "end": "Jun 24 2017 08:00PM",
+            "dj": "NSD"
+          },
+          {
+            "start": "Jun 24 2017 08:00PM",
+            "end": "Jun 24 2017 09:00PM",
+            "dj": "Tripped"
+          },
+          {
+            "start": "Jun 24 2017 09:00PM",
+            "end": "Jun 24 2017 10:00PM",
+            "dj": "Noisekick"
+          },
+          {
+            "start": "Jun 24 2017 10:00PM",
+            "end": "Jun 24 2017 11:00PM",
+            "dj": "The Destroyer"
+          }
+        ]
+      }
+    }
+  },
+  "after": {
+    "id": "After Saturday",
+    "start": "Jun 25 2017 12:00AM",
+    "end": "Jun 25 2017 04:00AM",
+    "areas": {
+      "blue": {
+        "id": "The Blue",
+        "host": "Nolz",
+        "dj": [
+          {
+            "start": "Jun 25 2017 12:00AM",
+            "end": "Jun 25 2017 01:00AM",
+            "dj": "Code Black"
+          },
+          {
+            "start": "Jun 25 2017 01:00AM",
+            "end": "Jun 25 2017 02:30AM",
+            "dj": "Phuture Noize"
+          },
+          {
+            "start": "Jun 25 2017 02:30AM",
+            "end": "Jun 25 2017 03:30AM",
+            "dj": "Alpha²"
+          },
+          {
+            "start": "Jun 25 2017 03:30AM",
+            "end": "Jun 25 2017 04:00AM",
+            "dj": "War Force"
+          }
+        ]
+      },
+      "magenta": {
+        "id": "The Magenta",
+        "host": "Tellem",
+        "dj": [
+          {
+            "start": "Jun 25 2017 12:00AM",
+            "end": "Jun 25 2017 03:00AM",
+            "dj": "New Generation Madnezz: Galactixx, JNXD, Jay Reeve, Rebourne & Sickddellz"
+          }
+        ]
+      }
+    }
+  },
+  "sunday": {
+    "id": "Sunday",
+    "start": "Jun 25 2017 11:00AM",
+    "end": "Jun 25 2017 11:00PM",
+    "areas": {
+      "red": {
+        "id": "The Red",
+        "host": "Villain",
+        "dj": [
+          {
+            "start": "Jun 25 2017 08:00PM",
+            "end": "Jun 25 2017 11:00PM",
+            "dj": "DefQon.1 Legends / 15 Years of DefQon.1"
+          }
+        ]
+      },
+      "black": {
+        "id": "The Black",
+        "host": "Diesel",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 12:00PM",
+            "dj": "The Final Terror Sitdown"
+          },
+          {
+            "start": "Jun 25 2017 01:00PM",
+            "end": "Jun 25 2017 02:30PM",
+            "dj": "Tears of Fury"
+          },
+          {
+            "start": "Jun 25 2017 02:30PM",
+            "end": "Jun 25 2017 03:30PM",
+            "dj": "Beastarius"
+          },
+          {
+            "start": "Jun 25 2017 03:30PM",
+            "end": "Jun 25 2017 04:30PM",
+            "dj": "Noize Suppressor"
+          },
+          {
+            "start": "Jun 25 2017 04:30PM",
+            "end": "Jun 25 2017 05:30PM",
+            "dj": "Furyan"
+          },
+          {
+            "start": "Jun 25 2017 05:30PM",
+            "end": "Jun 25 2017 06:30PM",
+            "dj": "N-Vitral"
+          },
+          {
+            "start": "Jun 25 2017 06:30PM",
+            "end": "Jun 25 2017 07:30PM",
+            "dj": "Denekamps Gespuis"
+          },
+          {
+            "start": "Jun 25 2017 07:30PM",
+            "end": "Jun 25 2017 08:30PM",
+            "dj": "D-Fence"
+          },
+          {
+            "start": "Jun 25 2017 08:30PM",
+            "end": "Jun 25 2017 9:30PM",
+            "dj": "Nosferatu & Tha Playah"
+          },
+          {
+            "start": "Jun 25 2017 09:30PM",
+            "end": "Jun 25 2017 11:00PM",
+            "dj": "The Sickest Squad"
+          }
+        ]
+      },
+      "blue": {
+        "id": "The Blue",
+        "host": "Nolz",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 12:30PM",
+            "dj": "Tatanka"
+          },
+          {
+            "start": "Jun 25 2017 12:30PM",
+            "end": "Jun 25 2017 01:45PM",
+            "dj": "Delete"
+          },
+          {
+            "start": "Jun 25 2017 01:45PM",
+            "end": "Jun 25 2017 02:45PM",
+            "dj": "Sub Zero Project"
+          },
+          {
+            "start": "Jun 25 2017 02:45PM",
+            "end": "Jun 25 2017 03:45PM",
+            "dj": "Endymion"
+          },
+          {
+            "start": "Jun 25 2017 03:45PM",
+            "end": "Jun 25 2017 04:15PM",
+            "dj": "Hard Driver (live)"
+          },
+          {
+            "start": "Jun 25 2017 04:15PM",
+            "end": "Jun 25 2017 05:15PM",
+            "dj": "Digital Punk & Crypsis"
+          },
+          {
+            "start": "Jun 25 2017 05:15PM",
+            "end": "Jun 25 2017 06:15PM",
+            "dj": "B-Front"
+          },
+          {
+            "start": "Jun 25 2017 06:15PM",
+            "end": "Jun 25 2017 07:00PM",
+            "dj": "E-Force (live) - The Edge of Insanity"
+          },
+          {
+            "start": "Jun 25 2017 07:00PM",
+            "end": "Jun 25 2017 07:45PM",
+            "dj": "Gunz for Hire"
+          }
+        ]
+      },
+      "uv": {
+        "id": "The U.V.",
+        "host": "DV8",
+        "dj": [
+          {
+            "start": "Jun 25 2017 12:00PM",
+            "end": "Jun 25 2017 01:00PM",
+            "dj": "Sephyx"
+          },
+          {
+            "start": "Jun 25 2017 01:00PM",
+            "end": "Jun 25 2017 02:00PM",
+            "dj": "Villain & Dr. Rude"
+          },
+          {
+            "start": "Jun 25 2017 02:00PM",
+            "end": "Jun 25 2017 03:00PM",
+            "dj": "The Prophet"
+          },
+          {
+            "start": "Jun 25 2017 03:00PM",
+            "end": "Jun 25 2017 04:00PM",
+            "dj": "Da Tweekaz present Tweekacore ft. Darren Styles"
+          },
+          {
+            "start": "Jun 25 2017 04:00PM",
+            "end": "Jun 25 2017 05:00PM",
+            "dj": "Audiotricz & Adrenalize"
+          },
+          {
+            "start": "Jun 25 2017 05:00PM",
+            "end": "Jun 25 2017 06:00PM",
+            "dj": "Wasted Penguinz"
+          },
+          {
+            "start": "Jun 25 2017 06:00PM",
+            "end": "Jun 25 2017 07:00PM",
+            "dj": "D-Block & S-Te-Fan"
+          },
+          {
+            "start": "Jun 25 2017 07:00PM",
+            "end": "Jun 25 2017 08:00PM",
+            "dj": "Brennan Heart"
+          }
+        ]
+      },
+      "gold": {
+        "id": "Gold",
+        "host": "Da Mouth of Madness",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 12:00PM",
+            "dj": "Early Rave Work-Out"
+          },
+          {
+            "start": "Jun 25 2017 12:00PM",
+            "end": "Jun 25 2017 01:00PM",
+            "dj": "Weapon X"
+          },
+          {
+            "start": "Jun 25 2017 01:00PM",
+            "end": "Jun 25 2017 02:00PM",
+            "dj": "Re-Style"
+          },
+          {
+            "start": "Jun 25 2017 02:00PM",
+            "end": "Jun 25 2017 03:00PM",
+            "dj": "The Wishmaster"
+          },
+          {
+            "start": "Jun 25 2017 03:00PM",
+            "end": "Jun 25 2017 04:00PM",
+            "dj": "Amnesys"
+          },
+          {
+            "start": "Jun 25 2017 04:00PM",
+            "end": "Jun 25 2017 05:00PM",
+            "dj": "Promo & Catscan"
+          },
+          {
+            "start": "Jun 25 2017 05:00PM",
+            "end": "Jun 25 2017 06:00PM",
+            "dj": "Endymion"
+          },
+          {
+            "start": "Jun 25 2017 06:00PM",
+            "end": "Jun 25 2017 07:00PM",
+            "dj": "Neophyte"
+          },
+          {
+            "start": "Jun 25 2017 07:00PM",
+            "end": "Jun 25 2017 07:45PM",
+            "dj": "Unexist"
+          }
+        ]
+      },
+      "magenta": {
+        "id": "The Magenta",
+        "host": "Ruffian",
+        "dj": [
+          {
+            "start": "Jun 25 2017 12:00PM",
+            "end": "Jun 25 2017 02:00PM",
+            "dj": "Josh & Wesz"
+          },
+          {
+            "start": "Jun 25 2017 02:00PM",
+            "end": "Jun 25 2017 03:00PM",
+            "dj": "Tuneboy"
+          },
+          {
+            "start": "Jun 25 2017 03:00PM",
+            "end": "Jun 25 2017 04:00PM",
+            "dj": "Isaac"
+          },
+          {
+            "start": "Jun 25 2017 04:00PM",
+            "end": "Jun 25 2017 05:00PM",
+            "dj": "Alpha Twins"
+          },
+          {
+            "start": "Jun 25 2017 05:00PM",
+            "end": "Jun 25 2017 06:00PM",
+            "dj": "Tatanka"
+          },
+          {
+            "start": "Jun 25 2017 06:00PM",
+            "end": "Jun 25 2017 06:30PM",
+            "dj": "Donkey Rollers"
+          },
+          {
+            "start": "Jun 25 2017 06:30PM",
+            "end": "Jun 25 2017 07:45PM",
+            "dj": "Theracords Classics"
+          }
+        ]
+      },
+      "white": {
+        "id": "White",
+        "host": "The Russian",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 12:00PM",
+            "dj": "Shäg Ü"
+          },
+          {
+            "start": "Jun 25 2017 12:00PM",
+            "end": "Jun 25 2017 01:00PM",
+            "dj": "Plug 'n Play'"
+          },
+          {
+            "start": "Jun 25 2017 01:00PM",
+            "end": "Jun 25 2017 02:30PM",
+            "dj": "Geck-O presents The Funky Cat"
+          },
+          {
+            "start": "Jun 25 2017 02:30PM",
+            "end": "Jun 25 2017 03:00PM",
+            "dj": "Pat-B (live)"
+          },
+          {
+            "start": "Jun 25 2017 03:00PM",
+            "end": "Jun 25 2017 03:45PM",
+            "dj": "Rocky Wellstack"
+          },
+          {
+            "start": "Jun 25 2017 03:45PM",
+            "end": "Jun 25 2017 04:45PM",
+            "dj": "Dirtcaps"
+          },
+          {
+            "start": "Jun 25 2017 04:45PM",
+            "end": "Jun 25 2017 05:45PM",
+            "dj": "Mark with A K"
+          },
+          {
+            "start": "Jun 25 2017 05:45PM",
+            "end": "Jun 25 2017 06:45PM",
+            "dj": "DJ Paul Elstak"
+          },
+          {
+            "start": "Jun 25 2017 06:45PM",
+            "end": "Jun 25 2017 07:45PM",
+            "dj": "Korsakoff"
+          }
+        ]
+      },
+      "silver": {
+        "id": "Silver",
+        "host": "Dart",
+        "dj": [
+          {
+            "start": "Jun 25 2017 01:00PM",
+            "end": "Jun 25 2017 02:00PM",
+            "dj": "Somniac One"
+          },
+          {
+            "start": "Jun 25 2017 02:00PM",
+            "end": "Jun 25 2017 03:00PM",
+            "dj": "Synaptic Memories"
+          },
+          {
+            "start": "Jun 25 2017 03:00PM",
+            "end": "Jun 25 2017 04:00PM",
+            "dj": "Bloodcage"
+          },
+          {
+            "start": "Jun 25 2017 04:00PM",
+            "end": "Jun 25 2017 05:00PM",
+            "dj": "Switch Technique"
+          },
+          {
+            "start": "Jun 25 2017 05:00PM",
+            "end": "Jun 25 2017 06:00PM",
+            "dj": "Sei2ure (live)"
+          },
+          {
+            "start": "Jun 25 2017 06:00PM",
+            "end": "Jun 25 2017 07:00PM",
+            "dj": "Deathmachine"
+          },
+          {
+            "start": "Jun 25 2017 07:00PM",
+            "end": "Jun 25 2017 07:45PM",
+            "dj": "The DJ Producer"
+          }
+        ]
+      },
+      "indigo": {
+        "id": "Indigo",
+        "host": "Livid",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 12:30PM",
+            "dj": "D-Attack vs Kuzak"
+          },
+          {
+            "start": "Jun 25 2017 12:30PM",
+            "end": "Jun 25 2017 02:00PM",
+            "dj": "Re-mind vs Ncrypta"
+          },
+          {
+            "start": "Jun 25 2017 02:00PM",
+            "end": "Jun 25 2017 03:30PM",
+            "dj": "Unchained vs Bouncing Ball"
+          },
+          {
+            "start": "Jun 25 2017 03:30PM",
+            "end": "Jun 25 2017 04:30PM",
+            "dj": "Degos & Re-Done vs MYST"
+          },
+          {
+            "start": "Jun 25 2017 04:30PM",
+            "end": "Jun 25 2017 06:00PM",
+            "dj": "Regain vs Rebellion"
+          },
+          {
+            "start": "Jun 25 2017 06:00PM",
+            "end": "Jun 25 2017 06:30PM",
+            "dj": "Caine"
+          },
+          {
+            "start": "Jun 25 2017 06:30PM",
+            "end": "Jun 25 2017 07:45PM",
+            "dj": "Malice vs Rooler"
+          }
+        ]
+      },
+      "yellow": {
+        "id": "The Yellow",
+        "host": "",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 12:00PM",
+            "dj": ""
+          },
+          {
+            "start": "Jun 25 2017 12:00PM",
+            "end": "Jun 25 2017 01:00PM",
+            "dj": ""
+          },
+          {
+            "start": "Jun 25 2017 01:00PM",
+            "end": "Jun 25 2017 02:00PM",
+            "dj": "Sefa"
+          },
+          {
+            "start": "Jun 25 2017 02:00PM",
+            "end": "Jun 25 2017 03:00PM",
+            "dj": "Death by Design"
+          },
+          {
+            "start": "Jun 25 2017 03:00PM",
+            "end": "Jun 25 2017 04:00PM",
+            "dj": "The Braindrillerz"
+          },
+          {
+            "start": "Jun 25 2017 04:00PM",
+            "end": "Jun 25 2017 05:00PM",
+            "dj": "The Speedfreak"
+          },
+          {
+            "start": "Jun 25 2017 05:00PM",
+            "end": "Jun 25 2017 06:00PM",
+            "dj": "Goetia"
+          },
+          {
+            "start": "Jun 25 2017 06:00PM",
+            "end": "Jun 25 2017 07:00PM",
+            "dj": "HKV (live)"
+          },
+          {
+            "start": "Jun 25 2017 07:00PM",
+            "end": "Jun 25 2017 07:45PM",
+            "dj": "SRB"
+          }
+        ]
+      },
+      "big-chill": {
+        "id": "The Big Chill",
+        "host": "",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 11:00PM",
+            "dj": "Lano, Protman (live), Ricardos Raphie, Melowanter, Steve Slight, Toontje Vager, St. Benhard, Soleeman, Retardo, Dokuso, Joe Patroon, Enhik, Morquador & Psytaneous"
+          }
+        ]
+      },
+      "feesttent": {
+        "id": "The Feesttent",
+        "host": "",
+        "dj": [
+          {
+            "start": "Jun 25 2017 11:00AM",
+            "end": "Jun 25 2017 11:00PM",
+            "dj": "Feestnation, Beatcrooks, Rikkie & Slingertjes foute discoshow la sound, Sköften Sloopservice, Flashback Heroes, Apres Skillex, DJ Tune, Brocco Buren van de Brandweer, Boevenbende"
+          }
+        ]
+      }
+    }
+  }
+}
