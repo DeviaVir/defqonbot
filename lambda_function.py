@@ -458,10 +458,9 @@ Hey, {}! It sure is nice to meet you. Here's a list of things you can ask me:
 What is the lineup for the red on Saturday?
 Who is currently playing at the blue?
 Who is playing next at the indigo?
-What is the weather going to be like?
+How warm is it right now?
 Will it rain tomorrow?
 What is the drug policy?
-What should I take with me on the camping?
 
 I also know a few other things, but I'm sure you'll find that out yourself.
 
